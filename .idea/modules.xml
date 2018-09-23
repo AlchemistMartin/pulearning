@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/../blocksgame/.idea/blocksgame.iml" filepath="$PROJECT_DIR$/../blocksgame/.idea/blocksgame.iml" />
       <module fileurl="file://$PROJECT_DIR$/../kaggle_insurance/.idea/kaggle_insurance.iml" filepath="$PROJECT_DIR$/../kaggle_insurance/.idea/kaggle_insurance.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/pulearning.iml" filepath="$PROJECT_DIR$/.idea/pulearning.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../tflearning/.idea/tflearning.iml" filepath="$PROJECT_DIR$/../tflearning/.idea/tflearning.iml" />
     </modules>
   </component>
 </project>
